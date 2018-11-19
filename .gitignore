@@ -1,0 +1,6 @@
+# Environment
+.idea/
+.vs/
+
+# word embedding pre-trained vector
+glove.*.txt
