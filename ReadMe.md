@@ -19,3 +19,8 @@ python text_summarizer.py
 ## Data file:
 - **tennis_articles_v4.csv**: ten tennis news article about single event from multiple source
 - **glove.6B.100d.txt**: [*GloVe*](https://nlp.stanford.edu/projects/glove/) : Word embeddings for vector representation of words. Using the pre-trained *Wikipedia 2014 + Gigaword 5* GloVe vectors
+
+Download from the source:
+
+    !wget http://nlp.stanford.edu/data/glove.6B.zip 
+    !unzip glove*.zip
